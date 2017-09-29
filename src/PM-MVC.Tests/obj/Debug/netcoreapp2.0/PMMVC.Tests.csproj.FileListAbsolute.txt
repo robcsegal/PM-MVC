@@ -1,0 +1,14 @@
+C:\Development\PM-MVC\src\PM-MVC.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Development\PM-MVC\src\PM-MVC.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Development\PM-MVC\src\PM-MVC.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Development\PM-MVC\src\PM-MVC.Tests\bin\Debug\netcoreapp2.0\PMMVC.Tests.deps.json
+C:\Development\PM-MVC\src\PM-MVC.Tests\bin\Debug\netcoreapp2.0\PMMVC.Tests.runtimeconfig.json
+C:\Development\PM-MVC\src\PM-MVC.Tests\bin\Debug\netcoreapp2.0\PMMVC.Tests.runtimeconfig.dev.json
+C:\Development\PM-MVC\src\PM-MVC.Tests\bin\Debug\netcoreapp2.0\PMMVC.Tests.dll
+C:\Development\PM-MVC\src\PM-MVC.Tests\bin\Debug\netcoreapp2.0\PMMVC.Tests.pdb
+C:\Development\PM-MVC\src\PM-MVC.Tests\obj\Debug\netcoreapp2.0\PMMVC.Tests.csprojResolveAssemblyReference.cache
+C:\Development\PM-MVC\src\PM-MVC.Tests\obj\Debug\netcoreapp2.0\PMMVC.Tests.csproj.CoreCompileInputs.cache
+C:\Development\PM-MVC\src\PM-MVC.Tests\obj\Debug\netcoreapp2.0\PMMVC.Tests.AssemblyInfoInputs.cache
+C:\Development\PM-MVC\src\PM-MVC.Tests\obj\Debug\netcoreapp2.0\PMMVC.Tests.AssemblyInfo.cs
+C:\Development\PM-MVC\src\PM-MVC.Tests\obj\Debug\netcoreapp2.0\PMMVC.Tests.dll
+C:\Development\PM-MVC\src\PM-MVC.Tests\obj\Debug\netcoreapp2.0\PMMVC.Tests.pdb

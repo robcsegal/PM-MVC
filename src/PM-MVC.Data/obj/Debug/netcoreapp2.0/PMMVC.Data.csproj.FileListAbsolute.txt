@@ -1,0 +1,9 @@
+C:\Development\PM-MVC\src\PM-MVC.Data\bin\Debug\netcoreapp2.0\PMMVC.Data.deps.json
+C:\Development\PM-MVC\src\PM-MVC.Data\bin\Debug\netcoreapp2.0\PMMVC.Data.dll
+C:\Development\PM-MVC\src\PM-MVC.Data\bin\Debug\netcoreapp2.0\PMMVC.Data.pdb
+C:\Development\PM-MVC\src\PM-MVC.Data\obj\Debug\netcoreapp2.0\PMMVC.Data.csprojResolveAssemblyReference.cache
+C:\Development\PM-MVC\src\PM-MVC.Data\obj\Debug\netcoreapp2.0\PMMVC.Data.csproj.CoreCompileInputs.cache
+C:\Development\PM-MVC\src\PM-MVC.Data\obj\Debug\netcoreapp2.0\PMMVC.Data.AssemblyInfoInputs.cache
+C:\Development\PM-MVC\src\PM-MVC.Data\obj\Debug\netcoreapp2.0\PMMVC.Data.AssemblyInfo.cs
+C:\Development\PM-MVC\src\PM-MVC.Data\obj\Debug\netcoreapp2.0\PMMVC.Data.dll
+C:\Development\PM-MVC\src\PM-MVC.Data\obj\Debug\netcoreapp2.0\PMMVC.Data.pdb
