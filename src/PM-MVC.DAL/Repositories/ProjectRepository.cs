@@ -70,6 +70,24 @@ namespace PMMVC.DAL.Repositories
             }
         }
 
+        public List<Entities.Project> GetAll(bool activeOnly)
+        {
+            List<Entities.Project> retProjects = new List<Entities.Project>();
+
+            try
+            {
+                retProjects = (from projs in m_projectManagement.Project
+                               where !activeOnly || (activeOnly && projs.Active)
+                               select GetEntityFromData(projs)).ToList();
+
+                return retProjects;
+            }
+            catch(Exception)
+            {
+                throw;
+            }
+        }
+
         #endregion
     }
 }

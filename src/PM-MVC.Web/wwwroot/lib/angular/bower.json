@@ -1,0 +1,9 @@
+{
+  "name": "angular",
+  "version": "1.6.8-build.5512+sha.dde520e",
+  "license": "MIT",
+  "main": "./angular.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}

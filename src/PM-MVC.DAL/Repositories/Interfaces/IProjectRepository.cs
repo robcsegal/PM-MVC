@@ -16,5 +16,8 @@ namespace PMMVC.DAL.Repositories.Interfaces
 
         [OperationContract]
         Entities.Project Get(int id);
+
+        [OperationContract]
+        List<Entities.Project> GetAll(bool activeOnly);
     }
 }

@@ -3453,11 +3453,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Development\\PM-MVC\\src\\PM-MVC.Data\\PMMVC.Data.csproj",
+      "projectUniqueName": "C:\\Development\\PM-MVC\\PM-MVC\\src\\PM-MVC.Data\\PMMVC.Data.csproj",
       "projectName": "PMMVC.Data",
-      "projectPath": "C:\\Development\\PM-MVC\\src\\PM-MVC.Data\\PMMVC.Data.csproj",
+      "projectPath": "C:\\Development\\PM-MVC\\PM-MVC\\src\\PM-MVC.Data\\PMMVC.Data.csproj",
       "packagesPath": "C:\\Users\\robsegal\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\PM-MVC\\src\\PM-MVC.Data\\obj\\",
+      "outputPath": "C:\\Development\\PM-MVC\\PM-MVC\\src\\PM-MVC.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3498,7 +3498,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "Microsoft.EntityFrameworkCore.Relational": {

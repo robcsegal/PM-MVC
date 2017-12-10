@@ -5624,11 +5624,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Development\\PM-MVC\\src\\PM-MVC.Tests\\PMMVC.Tests.csproj",
+      "projectUniqueName": "C:\\Development\\PM-MVC\\PM-MVC\\src\\PM-MVC.Tests\\PMMVC.Tests.csproj",
       "projectName": "PMMVC.Tests",
-      "projectPath": "C:\\Development\\PM-MVC\\src\\PM-MVC.Tests\\PMMVC.Tests.csproj",
+      "projectPath": "C:\\Development\\PM-MVC\\PM-MVC\\src\\PM-MVC.Tests\\PMMVC.Tests.csproj",
       "packagesPath": "C:\\Users\\robsegal\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\PM-MVC\\src\\PM-MVC.Tests\\obj\\",
+      "outputPath": "C:\\Development\\PM-MVC\\PM-MVC\\src\\PM-MVC.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5664,7 +5664,7 @@
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "xunit": {

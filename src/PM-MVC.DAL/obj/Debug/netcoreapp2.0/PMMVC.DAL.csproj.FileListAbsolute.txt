@@ -9,3 +9,14 @@ C:\Development\PM-MVC\src\PM-MVC.DAL\obj\Debug\netcoreapp2.0\PMMVC.DAL.dll
 C:\Development\PM-MVC\src\PM-MVC.DAL\obj\Debug\netcoreapp2.0\PMMVC.DAL.pdb
 C:\Development\PM-MVC\src\PM-MVC.DAL\bin\Debug\netcoreapp2.0\PMMVC.Data.dll
 C:\Development\PM-MVC\src\PM-MVC.DAL\bin\Debug\netcoreapp2.0\PMMVC.Data.pdb
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\bin\Debug\netcoreapp2.0\PMMVC.DAL.deps.json
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\bin\Debug\netcoreapp2.0\PMMVC.DAL.dll
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\bin\Debug\netcoreapp2.0\PMMVC.DAL.pdb
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\bin\Debug\netcoreapp2.0\PMMVC.Data.dll
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\bin\Debug\netcoreapp2.0\PMMVC.Data.pdb
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\obj\Debug\netcoreapp2.0\PMMVC.DAL.csprojResolveAssemblyReference.cache
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\obj\Debug\netcoreapp2.0\PMMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\obj\Debug\netcoreapp2.0\PMMVC.DAL.AssemblyInfoInputs.cache
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\obj\Debug\netcoreapp2.0\PMMVC.DAL.AssemblyInfo.cs
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\obj\Debug\netcoreapp2.0\PMMVC.DAL.dll
+C:\Development\PM-MVC\PM-MVC\src\PM-MVC.DAL\obj\Debug\netcoreapp2.0\PMMVC.DAL.pdb

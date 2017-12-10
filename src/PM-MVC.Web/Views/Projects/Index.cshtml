@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "Projects";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Projects</h2>
+<div ng-app="pmApp" ng-controller="projectsCtrl">
+    Projects
+    <table>
+        <tr ng-repeat="project in projects.projects">
+            <td>ID: {{project.id}}</td>
+            <td>{{project.description}}</td>
+            <td>{{project.createdDate}}</td>
+        </tr>
+    </table>
+</div>
+
+<script src="~/js/app/App.js"></script>
+<script src="~/js/app/controllers/projectsView.js"></script>
