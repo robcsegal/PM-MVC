@@ -88,6 +88,36 @@ namespace PMMVC.DAL.Repositories
             }
         }
 
+        public bool Save(Entities.Project project)
+        {
+            bool isSuccess = false;
+
+            try
+            {
+                Data.ProjectManagement.Project projectData = new Data.ProjectManagement.Project()
+                {
+                    ProjectId = project.ID,
+                    Description = project.Description,
+                    Active = project.Active,
+                    CreatedDate = project.CreatedDate
+                };
+
+                m_projectManagement.Project.Add(projectData);
+
+                m_projectManagement.SaveChanges();
+
+                isSuccess = true;
+
+                return isSuccess;
+            }
+            catch(Exception)
+            {
+                throw;
+            }
+
+
+        }
+
         #endregion
     }
 }

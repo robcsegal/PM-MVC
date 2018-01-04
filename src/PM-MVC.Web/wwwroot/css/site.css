@@ -33,3 +33,15 @@
         display: none;
     }
 }
+
+.add-project-section
+{
+    padding-bottom: 20px;
+    display:block;
+}
+
+add-project-section-line
+{
+    display:block;
+    padding-bottom:5px;
+}

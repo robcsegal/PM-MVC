@@ -61,6 +61,42 @@ namespace PMMVC.Web.Controllers
             }
         }
 
+        [AllowAnonymous]
+        [HttpPost]
+        [Route("Projects/Add")]
+        public JsonResult Add([FromBody] ProjectViewModel project)
+        {
+            ProjectsViewModel vmProjects = new ProjectsViewModel();
+            DateTime transactionDate = DateTime.UtcNow;
+
+            try
+            {
+                DAL.Entities.Project projectToSave = new DAL.Entities.Project()
+                {
+                    Description = project.Description,
+                    Active = project.Active,
+                    CreatedDate = project.CreatedDate
+                };
+
+                if (m_repoProject.Save(projectToSave))
+                {
+                    vmProjects.Projects = new List<ProjectViewModel>();
+
+                    vmProjects = BuildProjectsViewModel();
+
+                    return Json(vmProjects);
+                }
+                else
+                {
+                    return Json("");
+                }
+            }
+            catch(Exception)
+            {
+                return Json("");
+            }
+        }
+
         public ProjectsViewModel BuildProjectsViewModel()
         {
             ProjectsViewModel vmProjects = new ProjectsViewModel();

@@ -6,7 +6,20 @@
 
 <h2>Projects</h2>
 <div ng-app="pmApp" ng-controller="projectsCtrl">
-    Projects
+    <form class="add-project-section" data-ng-submit="sendForm()" novalidate>
+        <div class="add-project-section-line">
+            <label>Description</label>
+            <input type="text" id="txtAddProjectDescription" ng-model="project.description" />
+        </div>
+        <div class="add-project-section-line">
+            <input type="checkbox" id="chkAddProjectActive" ng-model="project.active" />
+            <label>Active</label>
+        </div>
+        <div class="add-project-section-line">
+            <button type="submit">Save</button>
+        </div>
+    </form>
+    <h3>Projects</h3>
     <table>
         <tr ng-repeat="project in projects.projects">
             <td>ID: {{project.id}}</td>

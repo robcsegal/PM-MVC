@@ -5616,6 +5616,7 @@
   },
   "packageFolders": {
     "C:\\Users\\robsegal\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5624,18 +5625,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Development\\PM-MVC\\PM-MVC\\src\\PM-MVC.Tests\\PMMVC.Tests.csproj",
+      "projectUniqueName": "C:\\Development\\PM-MVC\\src\\PM-MVC.Tests\\PMMVC.Tests.csproj",
       "projectName": "PMMVC.Tests",
-      "projectPath": "C:\\Development\\PM-MVC\\PM-MVC\\src\\PM-MVC.Tests\\PMMVC.Tests.csproj",
+      "projectPath": "C:\\Development\\PM-MVC\\src\\PM-MVC.Tests\\PMMVC.Tests.csproj",
       "packagesPath": "C:\\Users\\robsegal\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\PM-MVC\\PM-MVC\\src\\PM-MVC.Tests\\obj\\",
+      "outputPath": "C:\\Development\\PM-MVC\\src\\PM-MVC.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\robsegal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -5658,22 +5661,22 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "xunit.runner.visualstudio": {
+          "Microsoft.NET.Test.Sdk": {
             "target": "Package",
-            "version": "2.2.0"
+            "version": "[15.3.0-preview-20170628-02, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           },
           "xunit": {
             "target": "Package",
-            "version": "2.2.0"
+            "version": "[2.2.0, )"
           },
-          "Microsoft.NET.Test.Sdk": {
+          "xunit.runner.visualstudio": {
             "target": "Package",
-            "version": "15.3.0-preview-20170628-02"
+            "version": "[2.2.0, )"
           }
         },
         "imports": [
